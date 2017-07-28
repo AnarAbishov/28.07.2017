@@ -1,0 +1,124 @@
+body {
+    height: 3000px;
+    margin: 0px;
+}
+.container {
+    width: 1280px;
+    height: 720px;
+    margin: 0px 0px 0px 350px;
+   }
+
+.img {
+    position: relative;
+}
+
+.text {
+    position: absolute;
+    color: white;
+    left: 25%;
+    bottom: 55%;
+    text-shadow: 4px 4px 4px black;
+}
+
+.text2 {
+    position: absolute;
+    color:white;
+    left: 30%;
+    bottom: 50%;
+    text-shadow: 4px 4px 4px black;
+}
+
+.sol {
+    position: absolute;
+    color: red;
+    font-size: 20px;
+    padding: 5px;
+    left: 15px;
+    top: 320px;
+    background-color: white;
+    text-shadow: 4px 4px 6px black;
+
+}
+
+.sag {
+    position: absolute;
+    color: red;
+    font-size: 20px;
+    padding: 5px;
+    right: 15px;
+    top: 320px;
+    background-color: white;
+    text-shadow: 4px 4px 6px black;
+}
+
+.saat i {
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    right: 17%;
+    top: 0px;
+    padding: 7px;
+    background-color: red;
+    text-shadow: 4px 4px 6px black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.dollar i {
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    left: 39%;
+    bottom: 13px;
+    text-shadow: 4px 4px 6px black;
+    z-index: 1
+
+}
+
+.ashagi_xett {
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    left: 57.5%;
+    bottom: 15px;
+    text-shadow: 4px 4px 6px black;
+    z-index: 1;
+}
+
+.contact h4 {
+    position: absolute;
+    color: white;
+    left: 40%;
+    top: 48%;
+    padding: 7px;
+    border:  1.3px solid white;
+    text-shadow: 4px 4px 4px black;
+}
+
+.appoinment h4 {
+    position: absolute;
+    color: white;
+    left: 49%;
+    top: 48%;
+    background-color: red;
+    padding: 7px;
+    border:  1.3px solid white;
+    text-shadow: 4px 4px 4px black;
+    
+}
+
+.make_an_appoinment H4 {
+    position: absolute;
+    width: 20%;
+    left: 38%;
+    bottom: -17px;
+    color: white;
+    text-align: center;
+    padding: 11px;
+    background-color: red;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-shadow: 4px 4px 4px black;
+
+}
